@@ -1,0 +1,36 @@
+body {
+  margin: 30px auto;
+  max-width: 800px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+footer {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+footer a {
+  margin: auto 40px;
+  color: #eba300;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
